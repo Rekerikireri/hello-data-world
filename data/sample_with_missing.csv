@@ -1,0 +1,6 @@
+Name,Alter,Stadt,Einkommen
+Alice,25.0,Berlin,50000.0
+Bob,,München,60000.0
+Charlie,30.0,,
+,22.0,Hamburg,45000.0
+Eve,,Köln,70000.0
